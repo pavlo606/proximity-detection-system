@@ -19,6 +19,7 @@ Artifact (Beacon)
 - BLE advertising mode
 - Powered by battery
 - Configurable advertising interval
+
 ![Alt text](docs/ArtefactSchematic.png)
 
 Detector
@@ -26,6 +27,7 @@ Detector
 - BLE scanning
 - RSSI measurement
 - LED / buzzer output
+
 ![Alt text](docs/DetectorSchematic.png)
 
 ## Firmware Architecture
